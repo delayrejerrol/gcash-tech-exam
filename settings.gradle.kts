@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Open Weather App"
 include(":app")
- 
